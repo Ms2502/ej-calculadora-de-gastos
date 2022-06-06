@@ -73,6 +73,11 @@ box-shadow: 0px 10px 13px -7px #000000, 9px 8px 10px -3px rgba(0,0,0,0.6);
 .list1{
     font-size: 1.5rem;
 }
+
+#list{
+    list-style-type: none;
+}
+
 .resumen{
     padding:10px 0px 20px 0px;
 }
